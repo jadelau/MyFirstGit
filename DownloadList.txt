@@ -1,0 +1,4 @@
+mysql connectorJ
+Struts2
+Hibernate
+Spring
