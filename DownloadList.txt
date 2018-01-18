@@ -3,7 +3,4 @@ Struts2
 Hibernate
 Spring
 java
-Netty
-MyBatis
-yggygvyvy
-vyvujvjbjhgy
+HJHJHJHJHJHJHJH
